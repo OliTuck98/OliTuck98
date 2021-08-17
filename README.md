@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @OliTuck98
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning Node and C++
+- 📫 How to reach me by email oli.tucker98@gmail.com
